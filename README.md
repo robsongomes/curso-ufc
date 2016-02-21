@@ -1,0 +1,1 @@
+Este repositório contem os exercícios do curso de java ministrado na UFC.
